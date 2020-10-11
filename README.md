@@ -44,7 +44,7 @@ https://jkelly91.github.io/nw-responsive-portfolio-assign-02/
 - Git Bash
 - Microsoft visual studio code
 - Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-- Horiseon Social Solution Services, Inc.
+- Bootsrap team
 
 
 
@@ -53,7 +53,7 @@ https://jkelly91.github.io/nw-responsive-portfolio-assign-02/
 
 MIT License
 
-Copyright (c) [2020] [Horiseon Social Solution Services, Inc.]
+Copyright (c) [2020] [Joseph Kelly]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
