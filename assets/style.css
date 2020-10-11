@@ -35,18 +35,6 @@ p {
   font-size: 24px;
 
 }
-/* responsive image css */
-.img-responsive {
-  width: 50%;
-  height: auto;
-}
 
-/* .img-container {
-  transition:transform 0.25s ease;
-}
-
-.img-container:hover {
-  transform:scale(1.5);
-}
 
 
