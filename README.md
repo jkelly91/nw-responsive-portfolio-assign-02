@@ -4,6 +4,11 @@
 
 A web and mobile responsive portfolio about me and my journey so far in the bootcamp program.
 
+I learned a lot doing this process, I spent a lot of hours on this too, roughly over 30 hours or more..
+
+I still can't seem to figure out why fonts abd responsiveness looks different on live server and default browser than it does
+on github.
+
 
 
 Languages used
@@ -32,9 +37,32 @@ https://jkelly91.github.io/nw-responsive-portfolio-assign-02/
 
 2. Navigate the page using the navigation bar at the top right hand corner!
 
-![](assets\images\navigation-ss.png)
+3. Click either About, Porfolio or Contact to navigate the page.
+
+![](assets\images\navigation-01.PNG )
 ![Example navigating the webpage](https://github.com/jkelly91/nw-assignment-01/blob/main/assets/images/navigation-ss.png?raw=true)
 
+
+## Contributing
+If anyone has any suggestions please feel free to contribute
+
+Submit bugs and feature requests, and help me verify as they are checked in
+Review source code changes
+Review the documentation and make pull requests for anything from typos to new content
+If you are interested in fixing issues and contributing directly to the code base, please see the document How to Contribute, which covers the following:
+
+How to build and run from source
+The development workflow, including debugging and running tests
+Coding guidelines
+Submitting pull requests
+Finding an issue to work on
+Contributing to translations
+Leave Feedback
+File an issue @ jkelly2191@gmail.com
+Follow twitter @ jkelly2191
+LinkedIn @  https://www.linkedin.com/in/joseph-kelly-9711891b6/
+
+let me know what you think!
 
 
 ## Credits
@@ -45,7 +73,6 @@ https://jkelly91.github.io/nw-responsive-portfolio-assign-02/
 - Microsoft visual studio code
 - Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 - Bootsrap team
-
 
 
 
