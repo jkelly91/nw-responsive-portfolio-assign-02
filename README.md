@@ -4,11 +4,10 @@
 
 A web and mobile responsive portfolio about me and my journey so far in the bootcamp program.
 
-I learned a lot doing this process, I spent a lot of hours on this too, roughly over 30 hours or more..
+I learned a lot during this process, I spent a lot of hours on this too, roughly over 30 hours or more..
 
-I still can't seem to figure out why fonts abd responsiveness looks different on live server and default browser than it does
-on github.
-
+The main thing I learned during this project was that bootstrap is much different than css and if you 
+cannot find a way to change something in bootstrap then just write it in css.
 
 
 Languages used
