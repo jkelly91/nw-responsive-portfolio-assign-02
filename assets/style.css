@@ -19,7 +19,7 @@ body {
   font-size: 40px;
   font-weight: bold;
 }
-
+/* consolidating footer/navbar */
 .navbar, footer{
   background: rgba(0,0,0,0.8);
   font-size: 24px;
