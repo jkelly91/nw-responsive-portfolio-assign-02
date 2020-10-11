@@ -1,0 +1,52 @@
+/* body element  */
+body {
+  font-family: 'Lora', serif;
+  background-color: #ccc;
+  background-image: url(Images/portfolio-background.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+
+}
+/* navigation elements */
+.nav-link:hover {
+  color: whitesmoke !important;
+}
+.navbar-brand {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.navbar{
+  background: rgba(0,0,0,0.8);
+  font-size: 24px;
+}
+/* card element */
+.card {
+  background: rgba(0,0,0,0.5);
+  color: whitesmoke;
+
+}
+/* All p Tags */
+p {
+  font-weight: 500;
+  font-size: 24px;
+
+}
+/* responsive image css */
+.img-responsive {
+  width: 50%;
+  height: auto;
+}
+
+/* .img-container {
+  transition:transform 0.25s ease;
+}
+
+.img-container:hover {
+  transform:scale(1.5);
+}
+
+
