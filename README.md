@@ -39,8 +39,8 @@ https://jkelly91.github.io/nw-responsive-portfolio-assign-02/
 
 3. Click either About, Porfolio or Contact to navigate the page.
 
-![](assets\images\navigation-01.PNG)
-![Example navigating the webpage]()
+![Example of portfolio page ](assets\images\navigation-01.PNG)
+
 
 
 ## Contributing
