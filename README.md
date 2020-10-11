@@ -39,8 +39,8 @@ https://jkelly91.github.io/nw-responsive-portfolio-assign-02/
 
 3. Click either About, Porfolio or Contact to navigate the page.
 
-![](assets\images\navigation-01.PNG )
-![Example navigating the webpage](https://github.com/jkelly91/nw-responsive-porfolio-assign-02/blob/main/assets/images/navigation-01.PNG?raw=true)
+![](assets\images\navigation-01.PNG)
+![Example navigating the webpage]()
 
 
 ## Contributing
@@ -51,16 +51,12 @@ Review source code changes
 Review the documentation and make pull requests for anything from typos to new content
 If you are interested in fixing issues and contributing directly to the code base, please see the document How to Contribute, which covers the following:
 
-How to build and run from source
-The development workflow, including debugging and running tests
-Coding guidelines
-Submitting pull requests
-Finding an issue to work on
-Contributing to translations
-Leave Feedback
-File an issue @ jkelly2191@gmail.com
-Follow twitter @ jkelly2191
-LinkedIn @  https://www.linkedin.com/in/joseph-kelly-9711891b6/
+
+- Finding an issue to work on
+- Leave Feedback
+- File an issue @ jkelly2191@gmail.com
+- Follow twitter @ jkelly2191
+- LinkedIn @  https://www.linkedin.com/in/joseph-kelly-9711891b6/
 
 let me know what you think!
 
