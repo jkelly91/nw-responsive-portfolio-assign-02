@@ -1,59 +1,6 @@
-# nw-responsive-portfolio-assign-02
-
-## Description
-
-A web and mobile responsive portfolio about me and my journey so far in the bootcamp program.
-
-
-
-Languages used
-
-- HTML
-- CSS
-- Bootstrap 4
-
-Acceptance Criteria
-
-- Semantic Elements
-- A navbar
-- A responsive layout
-- Alt Attributes
-- Sequential order
-- Links Function correctly
-- consolidated CSS
-- CSS Commenting
-- Responsive Images
-
-## Usage
-
-1. Follow this LINK
-https://jkelly91.github.io/nw-responsive-portfolio-assign-02/
-
-
-2. Navigate the page using the navigation bar at the top right hand corner!
-
-![](assets\images\navigation-ss.png)
-![Example navigating the webpage](https://github.com/jkelly91/nw-assignment-01/blob/main/assets/images/navigation-ss.png?raw=true)
-
-
-
-## Credits
-
-
-- Git Hub
-- Git Bash
-- Microsoft visual studio code
-- Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-- Horiseon Social Solution Services, Inc.
-
-
-
-
-## License
-
 MIT License
 
-Copyright (c) [2020] [Horiseon Social Solution Services, Inc.]
+Copyright (c) 2020 jkelly91
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

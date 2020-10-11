@@ -2,7 +2,7 @@
 body {
   font-family: 'Lora', serif;
   background-color: #ccc;
-  background-image: url(/images/portfolio-background.jpg);
+  background-image: url(images/portfolio-background.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
